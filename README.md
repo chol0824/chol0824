@@ -1,6 +1,8 @@
 # 📱 Android Developer
+<img src="https://github.com/chol0824/chol0824/assets/74773561/ad466277-b1dc-46c1-a697-3e76c39e9756">
 <br>
 <h2> 안녕하세요 ! 함께 성장하는 안드로이드 앱 개발자 최서정입니다. </h2>
+<img src="https://github.com/chol0824/chol0824/assets/74773561/0f2f8917-7e3c-47a9-a6d4-7d1685f961e9">
 
 <div align=center><h2> 🛠 Tech Stack </h2></div>
 <div align=center> 
