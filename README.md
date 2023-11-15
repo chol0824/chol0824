@@ -33,7 +33,7 @@
 <br>
 <div align=center>
   <li>리눅스마스터 2급 ( 2021.03.13)</li>
-  <li>TOEIC Speaking Advanced Low 170 ( 2021.08.01)</li>
+  <li>TOEIC Speaking Advanced Low 170 ( 2023.11.14)</li>
   <li>SQLD 국가 공인 SQL 개발자( 2021.12.17 )</li>
   <li>정보처리기사 ( 2022.06.17 )</li>
 </div>
